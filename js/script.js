@@ -1,7 +1,7 @@
 /* ============ Settings: change only this part ============ */
 // Put the direct link to your APK here (GitHub Releases, Google Drive direct link, your own server...).
 // While it is empty, the download buttons show a short message instead of a broken link.
-const APK_URL = "https://drive.google.com/file/d/1AX62KeQBUpCn3h6jjizQo85yp2BHAtil/view?usp=sharing";
+const APK_URL = "https://drive.google.com/file/d/1DMsc4TDGBfg10MuueC5RoJHeAHQrjSe1/view?usp=sharing";
 
 /* ============ Download buttons ============ */
 const toast = document.getElementById("toast");
